@@ -1,0 +1,107 @@
+.navbar{
+        background: #000;
+}
+.nav-item{
+        padding-left: 1em;
+}
+.nav-link{
+        text-transform: uppercase;
+}
+.carousel-item{
+        height: 450px;
+}
+.carousel-img-1{
+        background: url(img/image1.jpeg);
+        background-size: cover;
+}
+.carousel-img-2{
+        background: url(img/image2.jpeg);
+        background-size: cover;
+}
+.carousel-img-3{
+        background: url(img/image3.jpeg);
+        background-size: cover;
+}
+#icon .fa{
+        font-size: 40px;
+}
+#overlay{
+        position: relative;
+        background: url(img/pc.jpeg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        min-height: 250px;      
+}
+#overlay .background-img{
+        background: rgba(0,0,0,0.7);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+}
+.youtube{
+        font-size: 40px;
+        color: red;
+
+}
+#video{
+        position: relative;
+        background: url(img/people.jpeg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        min-height: 250px;
+}
+#video .video-back{
+        background: rgba(0,0,0,0.7);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+}
+#photo-album img{
+        min-height: 250px;
+        
+}
+#footer{
+        background: #000;
+}
+#page-header{
+        background: url(img/image1.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 200px;
+}
+#about-info img{
+        width: 350px;
+        height: 350px;
+}
+#boxes .fa{
+        font-size: 50px;
+        margin-bottom: 20px;
+}
+#service-header{
+        background: url(img/image2.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 200px;
+}
+#blog-header{
+        background: url(img/image1.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 200px;
+}
+#contact-header{
+        background: url(img/image3.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 200px;
+}
